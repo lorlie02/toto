@@ -1,0 +1,123 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/img1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.content1{
+    width: 500px;
+    height: 300px;
+    float: left;
+    
+}
+.content1 input{
+    width: 250px;
+    height: 40px;
+    border-radius: 30px;
+    font-size: 1rem;
+    margin-top: 50px;
+    margin-left: 50px;
+    border-top:none;
+    border-left: none;
+    border-right: none;
+}
+
+.con{
+    margin-top: 40px;
+    margin-left: 80px;
+    color: aliceblue;
+}
+#cloud{
+    margin-left: 200px;
+    float: left ;
+}
+.day{
+    font-size:1.5rem;
+    margin-bottom: 0;
+    margin-left: 30px;
+
+}
+.time{
+    font-size: 4.5rem;
+    margin-top:0 ;
+    margin-bottom: 0;
+}   
+.cloud{
+    font-size: 1.5rem;
+    margin-bottom: 0;
+    margin-top: 0;
+    margin-left: 30px;
+}
+.content2{
+    width: 800px;
+    height: 300px;
+    
+    float: left;
+    
+
+}
+.date{
+    margin-left: 600px;
+    font-size: 1.5rem;
+    color:white;
+   
+}
+.toto{
+    
+    
+    font-size: 1.5rem;
+    color:white;
+    margin-left: 600px;
+    margin-right: 100px;
+}
+.humi{
+    margin-bottom: 0;
+}
+.wind{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.cel{
+    margin-top: 0;
+    font-size: 4.5rem;
+    margin-right: 30px;
+    margin-left: 580px;
+    color: white;
+}
+.content3{
+    margin-top: 50px;
+    width: 1350px;
+    height: 300px;
+    
+    float: left;
+}
+.box{
+    width: 150px;
+    height: 250px;
+    background-color: rgba(0, 0, 0, 0.377);
+    border-radius: 30px;
+    float: left;
+    margin-left: 35px;
+    
+    color: white;
+    font-size: 2rem;
+    text-align: center;
+    
+}
+.box img{
+    
+    width: 50px;
+    height: 50px;
+    
+}
+
+#footer{
+    position: absolute;
+    padding-left: 330px;
+    top: 600px;
+    font-size: 15px;
+
+}
